@@ -1,0 +1,8 @@
+# Generated on 2026-11-10
+public/**/*.html linguist-vendored
+*.md linguist-documentation
+src/**/*.ts linguist-detectable
+*.gif binary
+*.ts linguist-detectable
+*.htm linguist-vendored
+*.jpg binary
